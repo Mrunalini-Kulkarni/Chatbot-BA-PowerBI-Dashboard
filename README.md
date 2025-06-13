@@ -1,6 +1,6 @@
 # 🤖 Chatbot Performance Dashboard – Business Analyst Project (Power BI)
 
-This project showcases a **Power BI dashboard** built to analyze chatbot performance data for a conversational AI platform (e.g., Yellow.ai). The dashboard is designed from a **Business Analyst (BA)** perspective to extract insights, identify trends, and improve operational efficiency.
+This project showcases a **Power BI dashboard** built to analyze chatbot performance data for a conversational AI platform. The dashboard is designed from a **Business Analyst (BA)** perspective to extract insights, identify trends, and improve operational efficiency.
 
 ---
 
