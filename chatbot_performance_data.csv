@@ -1,0 +1,121 @@
+ChatID,Date,Topic,ResolvedByBot,Escalated,FRT_Seconds,CSAT,Duration_Min,Channel
+C101,2025-05-12,Return,Yes,Yes,14,5,4.5,Website
+C102,2025-05-09,Payment Issue,Yes,Yes,14,4,3.8,Instagram
+C103,2025-05-22,Refund,Yes,No,23,3,5.7,Instagram
+C104,2025-05-23,Payment Issue,Yes,Yes,29,3,2.7,Website
+C105,2025-05-18,Payment Issue,Yes,No,18,5,4.2,Instagram
+C106,2025-05-10,Payment Issue,Yes,No,7,4,4.4,WhatsApp
+C107,2025-05-15,Return,Yes,Yes,8,5,4.9,Website
+C108,2025-05-16,Product Inquiry,Yes,Yes,15,5,4.8,Website
+C109,2025-05-01,Order Status,No,Yes,60,3,4.3,WhatsApp
+C110,2025-05-09,Shipping Delay,No,Yes,46,1,3.8,WhatsApp
+C111,2025-05-17,Product Inquiry,Yes,No,5,3,6.6,WhatsApp
+C112,2025-05-09,Payment Issue,Yes,No,7,4,5.3,Instagram
+C113,2025-05-21,Order Status,No,Yes,23,1,2.8,Mobile App
+C114,2025-05-06,Shipping Delay,Yes,Yes,30,3,4.7,Website
+C115,2025-05-10,Order Status,No,Yes,34,2,3.8,Website
+C116,2025-05-18,Refund,No,Yes,52,1,3.7,Mobile App
+C117,2025-05-13,Product Inquiry,No,Yes,43,4,3.7,Instagram
+C118,2025-05-04,Payment Issue,Yes,Yes,28,4,3.9,Instagram
+C119,2025-05-27,Order Status,Yes,No,23,5,4.2,Mobile App
+C120,2025-05-15,Order Status,No,Yes,43,3,3.8,Website
+C121,2025-05-30,Return,Yes,Yes,20,4,2.5,Instagram
+C122,2025-05-12,Refund,Yes,Yes,13,4,5.2,Mobile App
+C123,2025-05-13,Order Status,No,Yes,26,2,2.6,Instagram
+C124,2025-05-21,Payment Issue,Yes,No,28,5,6.7,Website
+C125,2025-05-06,Payment Issue,Yes,No,23,4,6.9,WhatsApp
+C126,2025-05-24,Product Inquiry,No,Yes,25,4,3.6,Website
+C127,2025-05-04,Payment Issue,Yes,No,29,4,2.5,WhatsApp
+C128,2025-05-29,Payment Issue,Yes,No,14,4,2.9,Mobile App
+C129,2025-05-19,Shipping Delay,No,Yes,43,3,3.3,Instagram
+C130,2025-05-25,Return,Yes,No,29,4,5.8,Instagram
+C131,2025-05-26,Order Status,No,Yes,35,1,2.9,WhatsApp
+C132,2025-05-20,Payment Issue,Yes,No,23,3,2.3,Instagram
+C133,2025-05-15,Shipping Delay,No,Yes,33,2,3.7,Mobile App
+C134,2025-05-12,Payment Issue,No,Yes,20,4,2.3,WhatsApp
+C135,2025-05-03,Shipping Delay,Yes,No,24,5,4.2,Website
+C136,2025-05-03,Return,No,Yes,47,4,6.4,WhatsApp
+C137,2025-05-07,Return,No,Yes,41,1,4.7,Instagram
+C138,2025-05-28,Shipping Delay,Yes,No,16,5,3.6,WhatsApp
+C139,2025-05-08,Payment Issue,Yes,Yes,20,5,2.5,Instagram
+C140,2025-05-24,Shipping Delay,Yes,No,9,4,5.5,Website
+C141,2025-05-14,Payment Issue,No,Yes,53,3,6.0,WhatsApp
+C142,2025-05-29,Return,No,Yes,42,1,4.2,WhatsApp
+C143,2025-05-16,Refund,No,Yes,49,2,2.5,WhatsApp
+C144,2025-05-29,Payment Issue,Yes,Yes,13,4,2.7,WhatsApp
+C145,2025-05-20,Shipping Delay,No,Yes,26,4,3.0,Instagram
+C146,2025-05-11,Shipping Delay,No,Yes,45,1,4.2,Mobile App
+C147,2025-05-13,Refund,Yes,Yes,16,4,6.2,Website
+C148,2025-05-28,Return,No,Yes,20,2,6.0,WhatsApp
+C149,2025-05-08,Return,Yes,Yes,6,4,3.0,Mobile App
+C150,2025-05-24,Product Inquiry,Yes,Yes,9,5,6.8,Mobile App
+C151,2025-05-04,Product Inquiry,Yes,No,10,4,6.4,Website
+C152,2025-05-27,Payment Issue,No,Yes,25,4,3.6,WhatsApp
+C153,2025-05-14,Product Inquiry,Yes,Yes,7,3,4.9,Mobile App
+C154,2025-05-22,Refund,No,Yes,56,3,2.5,Mobile App
+C155,2025-05-09,Refund,No,Yes,49,2,4.3,Instagram
+C156,2025-05-07,Payment Issue,Yes,No,20,4,3.7,Website
+C157,2025-05-20,Shipping Delay,No,Yes,22,1,6.5,WhatsApp
+C158,2025-05-03,Return,No,Yes,46,3,5.1,WhatsApp
+C159,2025-05-26,Refund,No,Yes,56,3,3.9,Mobile App
+C160,2025-05-02,Shipping Delay,Yes,Yes,29,5,3.5,WhatsApp
+C161,2025-05-29,Return,Yes,Yes,6,4,5.0,Website
+C162,2025-05-10,Return,No,Yes,20,1,2.0,WhatsApp
+C163,2025-05-13,Refund,No,Yes,58,3,2.7,Instagram
+C164,2025-05-02,Refund,No,Yes,38,4,6.4,Instagram
+C165,2025-05-28,Return,No,Yes,33,2,6.3,Website
+C166,2025-05-01,Shipping Delay,Yes,Yes,9,3,4.4,Mobile App
+C167,2025-05-17,Product Inquiry,Yes,No,15,5,3.0,Instagram
+C168,2025-05-26,Refund,Yes,No,29,4,2.9,Website
+C169,2025-05-23,Return,Yes,No,10,3,4.5,Website
+C170,2025-05-26,Product Inquiry,No,Yes,49,2,3.2,Mobile App
+C171,2025-05-13,Product Inquiry,Yes,Yes,9,5,4.3,Website
+C172,2025-05-29,Return,Yes,Yes,9,4,2.4,Instagram
+C173,2025-05-18,Refund,No,Yes,29,4,6.9,Mobile App
+C174,2025-05-02,Product Inquiry,Yes,No,21,5,4.9,Instagram
+C175,2025-05-28,Payment Issue,Yes,Yes,8,5,4.3,Website
+C176,2025-05-20,Payment Issue,Yes,No,17,4,6.8,Website
+C177,2025-05-26,Payment Issue,Yes,No,26,4,4.8,Mobile App
+C178,2025-05-06,Shipping Delay,Yes,No,25,4,2.6,Mobile App
+C179,2025-05-23,Refund,No,Yes,23,1,5.6,Mobile App
+C180,2025-05-11,Return,Yes,Yes,6,4,5.6,Mobile App
+C181,2025-05-01,Shipping Delay,No,Yes,21,4,2.8,Website
+C182,2025-05-21,Product Inquiry,Yes,Yes,11,3,4.7,WhatsApp
+C183,2025-05-15,Payment Issue,No,Yes,42,2,4.4,Website
+C184,2025-05-11,Order Status,No,Yes,27,3,5.4,Mobile App
+C185,2025-05-09,Return,Yes,Yes,28,3,3.4,Instagram
+C186,2025-05-01,Product Inquiry,No,Yes,51,1,5.1,Instagram
+C187,2025-05-18,Payment Issue,Yes,No,30,5,3.1,WhatsApp
+C188,2025-05-11,Order Status,Yes,Yes,13,5,4.8,Website
+C189,2025-05-17,Refund,Yes,Yes,9,3,4.7,Instagram
+C190,2025-05-25,Product Inquiry,Yes,Yes,26,3,6.2,Website
+C191,2025-05-08,Refund,Yes,Yes,17,5,6.0,Instagram
+C192,2025-05-30,Order Status,No,Yes,24,2,6.4,Instagram
+C193,2025-05-09,Shipping Delay,Yes,Yes,12,5,2.3,Mobile App
+C194,2025-05-26,Shipping Delay,No,Yes,26,2,2.0,Website
+C195,2025-05-20,Payment Issue,Yes,No,16,3,6.1,Mobile App
+C196,2025-05-19,Refund,No,Yes,52,3,3.1,Instagram
+C197,2025-05-20,Payment Issue,Yes,No,7,4,6.5,WhatsApp
+C198,2025-05-09,Shipping Delay,No,Yes,34,2,4.1,WhatsApp
+C199,2025-05-14,Return,No,Yes,21,3,5.6,Website
+C200,2025-05-29,Return,No,Yes,55,2,4.8,WhatsApp
+C201,2025-05-22,Payment Issue,Yes,Yes,16,4,3.2,WhatsApp
+C202,2025-05-15,Product Inquiry,Yes,Yes,16,3,4.0,WhatsApp
+C203,2025-05-08,Product Inquiry,No,Yes,45,4,5.7,Mobile App
+C204,2025-05-07,Return,Yes,Yes,19,3,5.4,WhatsApp
+C205,2025-05-30,Payment Issue,No,Yes,36,3,2.7,Instagram
+C206,2025-05-10,Return,No,Yes,50,3,3.2,Mobile App
+C207,2025-05-06,Return,Yes,Yes,25,5,4.6,Website
+C208,2025-05-26,Product Inquiry,Yes,Yes,27,5,4.9,Website
+C209,2025-05-26,Product Inquiry,Yes,No,9,4,2.1,Instagram
+C210,2025-05-27,Refund,Yes,No,17,5,2.3,Mobile App
+C211,2025-05-08,Product Inquiry,No,Yes,26,4,2.5,Website
+C212,2025-05-18,Refund,No,Yes,36,3,6.7,Website
+C213,2025-05-08,Order Status,No,Yes,55,1,4.4,Instagram
+C214,2025-05-02,Payment Issue,Yes,Yes,10,4,2.8,Mobile App
+C215,2025-05-19,Return,Yes,No,8,5,6.3,Website
+C216,2025-05-21,Order Status,Yes,No,8,5,3.4,Website
+C217,2025-05-06,Return,No,Yes,24,2,3.3,Website
+C218,2025-05-25,Order Status,Yes,No,19,4,2.4,Mobile App
+C219,2025-05-16,Product Inquiry,Yes,Yes,24,5,2.1,Mobile App
+C220,2025-05-03,Payment Issue,Yes,Yes,5,4,4.5,WhatsApp
